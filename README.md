@@ -1,1 +1,1 @@
-# OpenCV---Reading-Writing-and-Displaying-Images
+# OpenCV-Reading Writing and Displaying Images
