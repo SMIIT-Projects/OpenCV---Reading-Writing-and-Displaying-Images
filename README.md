@@ -28,6 +28,7 @@ cv2.imshow(window_name, image)
 
 ### Display this gray scale image
 
+![6](https://user-images.githubusercontent.com/80674012/115228382-50703d80-a12f-11eb-9774-91d91e8a8074.png)
 
 ### Saving or Writing image: cv2.imwrite()
 cv2.imwrite() method is used to save an image to any storage device. This will save the image according to the specified format in the current working directory.
@@ -37,6 +38,7 @@ cv2.imwrite(filename, image)
 ### Resize Image
 
 ### Image Frame
+
 
 ### Blog Site:   https://www.smiit.xyz/opencv-read-write-and-display-images/
 
