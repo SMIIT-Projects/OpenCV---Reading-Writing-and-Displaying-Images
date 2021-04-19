@@ -20,11 +20,14 @@ cv2.imread(path, flag)
 
 ### Display an image: 
 
+![4](https://user-images.githubusercontent.com/80674012/115228198-19019100-a12f-11eb-9ed1-7a0344f51d9a.png)
+
 Use the function cv2.imshow() to display an image in a window.
 Syntax
 cv2.imshow(window_name, image)
 
 ### Display this gray scale image
+
 
 ### Saving or Writing image: cv2.imwrite()
 cv2.imwrite() method is used to save an image to any storage device. This will save the image according to the specified format in the current working directory.
