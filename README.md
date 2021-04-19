@@ -41,9 +41,11 @@ cv2.imwrite(filename, image)
 
 ![9](https://user-images.githubusercontent.com/80674012/115228529-831a3600-a12f-11eb-80ff-fa9259874d42.png)
 
-### Blog Site:   https://www.smiit.xyz/opencv-read-write-and-display-images/
+### Blog Site:  
+https://www.smiit.xyz/opencv-read-write-and-display-images/
 
-### GitHub Link:  https://github.com/SMIIT-Projects/OpenCV-Reading-Writing-and-Displaying-Images
+### GitHub Link:  
+https://github.com/SMIIT-Projects/OpenCV-Reading-Writing-and-Displaying-Images
 
 ### Tools and Technologies:
 The Code is written in Python 3.8.5.
