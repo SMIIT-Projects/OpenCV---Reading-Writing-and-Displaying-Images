@@ -39,6 +39,7 @@ cv2.imwrite(filename, image)
 
 ### Image Frame
 
+![9](https://user-images.githubusercontent.com/80674012/115228529-831a3600-a12f-11eb-80ff-fa9259874d42.png)
 
 ### Blog Site:   https://www.smiit.xyz/opencv-read-write-and-display-images/
 
